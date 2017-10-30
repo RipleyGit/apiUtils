@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dynamicSQL" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/sso" />
+    <file type="web" url="file://$PROJECT_DIR$/sso-login" />
+    <file type="web" url="file://$PROJECT_DIR$/ssoToLogin" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/poi/pom.xml" />
+        <option value="$PROJECT_DIR$/poiUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamicSQL/pom.xml" />
+        <option value="$PROJECT_DIR$/sso/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

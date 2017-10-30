@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dynamicSQL" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poiUtils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssoToLogin" charset="UTF-8" />
+  </component>
+</project>

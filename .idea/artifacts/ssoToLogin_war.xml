@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssoToLogin:war">
+    <output-path>$PROJECT_DIR$/ssoToLogin/target</output-path>
+    <root id="archive" name="spring-boot-jsp.war">
+      <element id="artifact" artifact-name="ssoToLogin:war exploded" />
+    </root>
+  </artifact>
+</component>
